@@ -15,11 +15,11 @@ This repository contains the final project for our Logic Design Lab course. The 
 
 This system allows users to dynamically assign switches to control different lamps based on a selected configuration mode. The design simulates how physical switches, logic gates, and flip-flops work together to achieve flexible switching behavior.
 
-Key features:
--Real-time mapping of switches to lamps
--Support for multiple configurations
--Clocked memory using flip-flops
--Finite State Machine (FSM) for control logic
+**Key Features:**
+- Real-time mapping of switches to lamps  
+- Support for multiple configurations  
+- Clocked memory using flip-flops  
+- Finite State Machine (FSM) for control logic
 
 ---
 
