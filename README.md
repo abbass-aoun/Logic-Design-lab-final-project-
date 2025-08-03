@@ -36,16 +36,12 @@ Key features:
 
 ## Tools & Technologies
 
-- Logic Simulator: *Logisim / Quartus / Multisim* (edit this)
-- Language: *Verilog / VHDL* (if applicable)
-- Platform: *Breadboard & ICs / Software Simulation* (edit this)
-- Documentation: State diagrams, circuit schematics, truth tables
-
+- Logic Simulator:Altera Quartus II
 ---
 
 ## How It Works
 
-1. System starts in `IDLE` mode
+1. System starts in IDLE mode
 2. User selects a configuration using input controls
 3. FSM determines switch-to-lamp mapping
 4. Logic gates activate lamps based on switch states
