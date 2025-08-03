@@ -64,12 +64,10 @@ This system allows users to dynamically assign switches to control different lam
 
 The dynamic logic-based switching system was successfully implemented and tested using [insert your simulation tool, e.g., Logisim]. All key functionalities performed as expected, including:
 
--Real-time switch-to-lamp mapping based on user input configurations
--Correct operation of flip-flops to store and maintain system states
--Accurate state transitions within the finite state machine (FSM)
--Successful simulation of lamp activation and deactivation according to the designed logic
-
----
+- Real-time switch-to-lamp mapping based on user input configurations  
+- Correct operation of flip-flops to store and maintain system states  
+- Accurate state transitions within the finite state machine (FSM)  
+- Successful simulation of lamp activation and deactivation according to the designed logic
 
 
 
