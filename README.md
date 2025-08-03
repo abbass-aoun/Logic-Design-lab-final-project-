@@ -69,6 +69,8 @@ The dynamic logic-based switching system was successfully implemented and tested
 -Accurate state transitions within the finite state machine (FSM)
 -Successful simulation of lamp activation and deactivation according to the designed logic
 
+---
+
 
 
 
