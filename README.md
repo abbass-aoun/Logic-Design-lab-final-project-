@@ -9,6 +9,9 @@
 
 This repository contains the final project for our Logic Design Lab course. The project implements a dynamic switching system where switches control lamps using digital logic circuits, state machines, and memory elements.
 
+-Date:13/5/2025
+-Institution: Lebanese American University  
+
 ---
 
 ## Project Summary
@@ -37,6 +40,14 @@ This system allows users to dynamically assign switches to control different lam
 ## Tools & Technologies
 
 - Logic Simulator:Altera Quartus II
+- Seven Segment display
+- 74LS series IC components
+- 555 timer
+- Breadboards
+- Resistors & Wires
+- LEDs
+- Mechanical switches
+  
 ---
 
 ## How It Works
@@ -46,5 +57,18 @@ This system allows users to dynamically assign switches to control different lam
 3. FSM determines switch-to-lamp mapping
 4. Logic gates activate lamps based on switch states
 5. State is stored using edge-triggered flip-flops
+
+---
+
+## Results
+
+The dynamic logic-based switching system was successfully implemented and tested using [insert your simulation tool, e.g., Logisim]. All key functionalities performed as expected, including:
+
+-Real-time switch-to-lamp mapping based on user input configurations
+-Correct operation of flip-flops to store and maintain system states
+-Accurate state transitions within the finite state machine (FSM)
+-Successful simulation of lamp activation and deactivation according to the designed logic
+
+
 
 
