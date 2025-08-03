@@ -9,8 +9,8 @@
 
 This repository contains the final project for our Logic Design Lab course. The project implements a dynamic switching system where switches control lamps using digital logic circuits, state machines, and memory elements.
 
--Date:13/5/2025
--Institution: Lebanese American University  
+- Date:13/5/2025
+- Institution: Lebanese American University  
 
 ---
 
